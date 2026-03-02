@@ -41,6 +41,8 @@ series_part: 2
 ---
 ```
 
+If a series_part is not defined, the plugin sorts by the date of the post with alphabetical order as a tiebreaker.
+
 ### Rendering series navigation
 
 Use the `{% series_links %}` Liquid tag in your post layout to render a navigation list linking to all parts:
