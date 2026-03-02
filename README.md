@@ -1,5 +1,7 @@
 # jekyll-series-links
 
+![Screenshot](screenshot.png)
+
 A Jekyll plugin that lets you organize blog posts into multi-part series. Posts declare their series membership via front matter, and a Liquid tag renders navigation links to all parts.
 
 ## Installation
