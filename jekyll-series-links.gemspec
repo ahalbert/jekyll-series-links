@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/ahalbert/jekyll-series-links"
   spec.license       = "MIT"
 
-  spec.files         = Dir["lib/**/*"]
+  spec.files         = Dir["lib/**/*"] + ["LICENSE", "README.md", "screenshot.png"]
   spec.require_paths = ["lib"]
 
   spec.required_ruby_version = ">= 2.5"
